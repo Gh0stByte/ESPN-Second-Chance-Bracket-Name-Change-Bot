@@ -2,6 +2,6 @@
 Python bot to change the name of your bracket per a user-defined timeframe.
 
 #Usage
- - Download [Bot](ESPN Bot.py)
+ - Download [Bot](ESPN%20Bot.py)
  - Configure in the Config section
  - Let it run
